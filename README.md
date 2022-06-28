@@ -1,5 +1,5 @@
 # product-landing-page
-Creating a personal portfolio using 
+Creating a product landing page using 
 HTML CSS
 
 
